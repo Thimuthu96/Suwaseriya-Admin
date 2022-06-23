@@ -1,0 +1,40 @@
+.login-screen{
+    display: flex;
+}
+.left{
+    width: 800px;
+    height: 98.6vh;
+    padding-left: 4em;
+    padding-top: 4em;
+}
+
+.left #login_img{
+    width: 400px;
+}
+.right{
+    width: 600px;
+    height: 98.6vh;
+    background-color: #0E9E52;
+    padding-top: 2em;
+}
+
+.logo-area{
+    display: flex;
+}
+
+.logo-area #login_img{
+    height: 50px;
+}
+
+.logo-area h3{
+    color: #fff;
+    margin-top: 0.3em;
+}
+
+.logo-area{
+    margin-left: 20%;
+}
+
+.form-area{
+    margin-left: 15%;
+}

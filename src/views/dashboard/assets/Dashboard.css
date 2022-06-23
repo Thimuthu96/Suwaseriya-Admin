@@ -1,0 +1,97 @@
+.dashboard{
+    display: flex;
+    height: 89.54vh;
+}
+
+.dashboard-view{
+    background-color: #F6F8FB;
+    height: 22.5em;
+    width: 27.48em;
+    position:unset;
+}
+
+.dashboard-sidebar{
+    position:fixed;
+    height: 16.2em;
+    box-shadow: 4px 0px 16px  rgba(16, 30, 115, 0.08);
+}
+
+.tabs-area{
+    padding-top: .6em;
+    display: flex;
+}
+
+.tab{
+    width: 220px;
+    height: 100px;
+    background-color: rgba(107, 191, 255, 0.361);
+    margin-left: 1.25em;
+    border-radius: 8px;
+}
+
+.tab1{
+    width: 220px;
+    height: 100px;
+    background-color: rgba(107, 191, 255, 0.361);
+    margin-left: .7em;
+    border-radius: 8px;
+}
+
+.tab-icon{
+    padding-top: .57em;
+    padding-left: .5em;
+}
+
+.tab-details{
+    margin-left: 2.25em;
+    margin-top: -20%;
+}
+
+.tab-details .tab-header h6{
+    font-size: 18px;
+}
+
+.tab-details .tab-count h6{
+    color: #0E9E52;
+    font-weight: bold;
+}
+
+.map-area{
+    width: 25.75em;
+    height: 18em;
+    background-color: #fff;
+    margin-left: .7em;
+    margin-top: .7em;
+    border-radius: 8px;
+}
+
+.map-header{
+    padding-top: .5em;
+    padding-left: .5em;
+    display: flex;
+}
+
+.map-header h6{
+    padding-top: .2em;
+}
+
+#date-time-icon{
+    height: 20px;
+    color: #0E9E52;
+    margin-left: .8em;
+}
+
+.task-map{
+    height: 15.9em;
+    width: 24.5em;
+    background-color: #F6F8FB;
+    margin-left: .6em;
+    margin-top: .2em;
+    border-radius: 8px;
+}
+
+.map-container{
+    width: 100%;
+    height: 15.9em;
+    border-radius: 8px;
+}

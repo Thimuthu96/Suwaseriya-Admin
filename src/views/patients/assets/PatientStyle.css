@@ -1,0 +1,18 @@
+.table-background{
+    height: 520px;
+    background-color: #fff;
+    padding: 1em;
+    border-radius: 8px;
+}
+
+.table-frame{
+    padding: .6em 1em;
+}
+
+.page-structure{
+    display: flex;
+}
+
+.page-structure Filter{
+    width: 250px;
+}
